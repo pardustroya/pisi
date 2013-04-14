@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=wxcam.xpm
+Exec=wxcam
+Name=wxCam
+GenericName=Webcam Viewer
+GenericName[tr]=Webcam Görüntüleyicisi
+Comment=Webcam Viewer
+Comment[tr]=Webcam Görüntüleyicisi
+Terminal=false
+Type=Application
+Categories=Application;AudioVideo;
